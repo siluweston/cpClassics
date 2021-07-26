@@ -1,3 +1,13 @@
+/*
+Input 3 non-negative numbers a,b,c. Representing the modulo equivalence value of some number X in mod 3, 5, 7 respectively. 
+Given 10<=X<=100, output the smallest X possible or state no possible answer.
+Input:
+2 1 6
+2 1 3
+Output:
+Case 1: 41
+Case 2: No answer
+*/
 #include<iostream>
 using namespace std;
 
