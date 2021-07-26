@@ -1,3 +1,14 @@
+/*
+Given a number n, output an upside-down pyramid with n rows.
+Input:
+5
+Output:
+#########
+ #######
+  #####
+   ###
+    #
+*/
 #include<iostream>
 using namespace std;
 
