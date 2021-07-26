@@ -1,6 +1,5 @@
 /*
 Create 3 3-digit numbers abc, efg, ghi. With every number from 1 through 9 being used exactly once. We need abc:def:ghi = 1:2:3. Output all possible solutions.
-
 */
 #include<iostream>
 using namespace std;
