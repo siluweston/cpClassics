@@ -1,3 +1,7 @@
+/* 
+Output all daffodil numbers, which are defined by 3 digit numbers ABC such ABC=A^3+B^3+C^3.
+Such as 153=1^3+5^3+3^3.
+*/
 #include<iostream>
 using namespace std;
 
