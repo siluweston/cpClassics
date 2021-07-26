@@ -1,3 +1,11 @@
+/*
+Input positive integers a,b,c, output a/b accurate to the c-th decimal place. a,b<=1e6, c<=100. Terminate when a=b=c=0.
+Input:
+1 6 4
+0 0 0
+Output:
+Case 1: 0.1666
+*/
 #include<iostream>
 using namespace std;
 
